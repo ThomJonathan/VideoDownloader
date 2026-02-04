@@ -1,6 +1,5 @@
-Flask==2.3.3
+Flask==3.0.0
 yt-dlp==2025.7.21
-Werkzeug==2.3.7
-gunicorn==20.1.0
-pillow==9.0.0
-rembg==2.0.27
+Werkzeug==3.0.0
+gunicorn==21.2.0
+Pillow==10.2.0
